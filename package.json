@@ -1,0 +1,34 @@
+{
+  "name": "at-comment",
+  "version": "1.0.0",
+  "description": "at-comment by js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangxin829/at-comment.git"
+  },
+  "keywords": [
+    "comment",
+    "at",
+    "js"
+  ],
+  "author": "jiangxin829",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangxin829/at-comment/issues"
+  },
+  "homepage": "https://github.com/jiangxin829/at-comment#readme",
+  "dependencies": {
+    "ahooks": "^3.8.4",
+    "classnames": "^2.5.1",
+    "lodash-es": "^4.17.21",
+    "react": "^18.2.0",
+    "tdesign-react": "^1.11.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
